@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PexelPictures", "PexelPictures\PexelPictures.pyproj", "{CB6CBD96-2DEC-4D9E-B49F-3C2498F025A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6CBD96-2DEC-4D9E-B49F-3C2498F025A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6CBD96-2DEC-4D9E-B49F-3C2498F025A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328D5033-1F7B-4236-99C0-1171BD56B4A0}
+	EndGlobalSection
+EndGlobal
